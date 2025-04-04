@@ -28,5 +28,5 @@ KPGT Drug Assistant is an innovative **AI-based platform** designed to streamlin
 
 ---  
 
-## 📂 Project Structure  
+
 
